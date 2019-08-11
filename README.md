@@ -1,2 +1,2 @@
 # ethereum-TodoList
-TodoList using ethereum blockchain and javascript
+TodoList using ethereum blockchain, Truffle Suite and Javascript
